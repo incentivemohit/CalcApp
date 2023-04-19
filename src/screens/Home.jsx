@@ -32,7 +32,7 @@ const Home = () => {
           placeholder="0"
         />
       </View>
-      <View className="flex-[2_2_10%]  rounded-t-3xl bg-red-500 flex-row justify-center items-center">
+      <View className="flex-[2_2_15%]  rounded-t-3xl bg-red-500 flex-row justify-center items-center">
         <View className="flex-row flex-wrap m-auto justify-center ">
           <Btn clickBtn={() => handleResult("c")} title="c" />
 
